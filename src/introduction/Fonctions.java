@@ -114,4 +114,13 @@ public class Fonctions {
         b++;
         return b;
     }
+
+    /*
+     * public static String signe(int a) {
+     * if (a > 0)
+     * return "positif";
+     * if (a < 0)
+     * return "négatif";
+     * }
+     */
 }
