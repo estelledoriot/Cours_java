@@ -1,7 +1,7 @@
 /* Estelle DORIOT           */
 /*  Cours sur les variables */
 
-package introduction;
+package ch2;
 
 import java.util.Scanner;
 

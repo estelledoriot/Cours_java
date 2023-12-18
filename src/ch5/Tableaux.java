@@ -1,7 +1,7 @@
 /* Estelle DORIOT         */
 /* Cours sur les tableaux */
 
-package introduction;
+package ch5;
 
 public class Tableaux {
     public static void main(String[] args) {

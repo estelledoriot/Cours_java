@@ -1,8 +1,8 @@
 /*  Premier programme en Java */
 
-package introduction;
+package ch1;
 
-public class Introduction{
+public class Introduction {
     public static void main(String args[]) {
         System.out.println("Hello world !");
     }

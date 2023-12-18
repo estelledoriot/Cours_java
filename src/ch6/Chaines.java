@@ -1,7 +1,7 @@
 /* Estelle DORIOT                      */
 /* Cours sur les chaînes de caractères */
 
-package introduction;
+package ch6;
 
 public class Chaines {
     public static void main(String[] args) {

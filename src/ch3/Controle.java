@@ -1,7 +1,7 @@
 /* Estelle DORIOT                       */
 /* Cours sur les structures de controle */
 
-package introduction;
+package ch3;
 
 import java.util.Scanner;
 

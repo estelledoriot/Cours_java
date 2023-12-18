@@ -1,7 +1,7 @@
 /* Estelle DORIOT          */
 /* Cours sur les fonctions */
 
-package introduction;
+package ch4;
 
 import java.util.Scanner;
 

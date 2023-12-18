@@ -1,4 +1,4 @@
-package introduction;
+package ch7;
 
 enum Jour {
     LUNDI("lu", "Monday"),
